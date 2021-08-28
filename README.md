@@ -1,2 +1,9 @@
 # SIMI-PYTHON-CMD
-by viko
+### Install
+Clone this project
+
+```bash
+> pkg install git
+> git clone https://github.com/Zhirrr/botwa
+> cd botwa
+```
