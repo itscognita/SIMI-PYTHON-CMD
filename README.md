@@ -1,5 +1,10 @@
 # SIMI-PYTHON-CMD
-<p align="center">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+<p align="left">
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" class:"circle" alt="GIF" width="128" height="128"/>
 </p>
 # Camra Install dan running
