@@ -1,4 +1,4 @@
-# SIMI-PYTHON-CMD
+# SIMICHAT-PYTHON-CMD
 
 <p align="left">
 <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="GIF" width="128" height="128"/>
