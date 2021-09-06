@@ -4,7 +4,7 @@
 <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <strong>Camra Install dan running</strong>
-<p>pertama tama buka cmdlu tod</p>
+<p>pertama tama buka termuxlu tod</p>
 
 ```bash
 > pkg install python
