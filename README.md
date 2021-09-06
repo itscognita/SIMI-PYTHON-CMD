@@ -7,7 +7,8 @@
 <p>pertama tama buka termuxlu tod</p>
 
 ```bash
-> pkg install python
+> pkg install git && pkg install python
+> git clone https://github.com/vikodk67/SIMI-PYTHON-CMD.git
 > cd simi-python-cmd
 > python -m pip install colorma
 > python -m pip install requests
