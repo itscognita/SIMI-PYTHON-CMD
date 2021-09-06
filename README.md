@@ -7,6 +7,7 @@
 <p>pertama tama buka cmdlu tod</p>
 
 ```bash
+> pkg install python
 > cd simi-python-cmd
 > python -m pip install colorma
 > python -m pip install requests
